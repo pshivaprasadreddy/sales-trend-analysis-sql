@@ -256,6 +256,4 @@ This document shows example outputs from the analytical queries in `03_sales_tre
 6. **VIP Program**: Review criteria - no current VIP-status customers
 7. **Inventory**: Stock up on Laptops and Monitors (top sellers)
 
----
 
-*Generated from sample data for demonstration purposes*
